@@ -34,7 +34,7 @@
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
