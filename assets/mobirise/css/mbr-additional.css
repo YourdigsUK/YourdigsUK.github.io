@@ -4286,84 +4286,42 @@ body {
   padding-bottom: 60px;
   background-color: #149dcc;
 }
-.cid-qwmlHFfWcv {
+.cid-qwr3vqtQkH {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #f9f9f9;
 }
-.cid-qwmlHFfWcv .mbr-section-subtitle {
+.cid-qwr3vqtQkH .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qwmlHFfWcv .container-table {
-  margin: 0 auto;
+.cid-qwr3vqtQkH .media-row {
+  display: flex;
+  justify-content: center;
 }
-.cid-qwmlHFfWcv .scroll {
-  overflow-x: auto;
-  padding: 0;
+.cid-qwr3vqtQkH .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
 }
-.cid-qwmlHFfWcv .dataTables_wrapper {
-  display: block;
+.cid-qwr3vqtQkH .team-item .item-image img {
+  width: 100%;
 }
-.cid-qwmlHFfWcv .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-qwmlHFfWcv .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-qwmlHFfWcv table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #cccccc;
+.cid-qwr3vqtQkH .team-item .item-name p {
   margin-bottom: 0;
 }
-.cid-qwmlHFfWcv table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
+.cid-qwr3vqtQkH .team-item .item-role p {
+  margin-bottom: 0;
 }
-.cid-qwmlHFfWcv table th:hover {
-  background: #cccccc;
-  color: #000000;
+.cid-qwr3vqtQkH .team-item .item-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
-.cid-qwmlHFfWcv table td {
-  border-top: 1px solid #cccccc;
+.cid-qwr3vqtQkH .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
 }
-.cid-qwmlHFfWcv table.table {
-  background: #ffffff;
-}
-.cid-qwmlHFfWcv .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-qwmlHFfWcv .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-qwmlHFfWcv .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-qwmlHFfWcv .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-qwmlHFfWcv .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-qwmlHFfWcv .dataTables_filter {
-    text-align: center;
-  }
-  .cid-qwmlHFfWcv .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
+.cid-qwr3vqtQkH .team-item .item-caption {
+  background: #efefef;
 }
 .cid-qw4v3FfmCt {
   padding-top: 30px;
