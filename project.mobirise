@@ -32,7 +32,7 @@
     "versionFirst": "4.2.5",
     "uniqCompNum": 91,
     "versionPublish": "4.3.0",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/fav-128x95.png",
     "noImageResize": "",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
