@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-02_1645",
+    "name": "Yourdigs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -27,7 +27,11 @@
     },
     "versionFirst": "4.3.0",
     "uniqCompNum": 41,
-    "versionPublish": "4.3.0"
+    "versionPublish": "4.3.0",
+    "favicon": "@PROJECT_PATH@/assets/images/ydim-128x149.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
