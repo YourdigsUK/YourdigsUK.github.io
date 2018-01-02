@@ -106,11 +106,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-r\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OWNERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-d\">BENEFITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-r\">SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-r\">GAURANTEE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-r\">REFERENCING</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">TENANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">BENEFITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">WHAT TO EXPECT</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-14\">OUR ROOMS</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-r\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">OWNERS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-d\">BENEFITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-r\">SERVICES</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-r\">GAURANTEE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-r\">REFERENCING</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box8-g\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">TENANTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">BENEFITS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box8-g\">WHAT TO EXPECT</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#form1-14\">OUR ROOMS</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/yourdigs-logogo-466x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo1-424x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -143,8 +143,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/p6Fixpmpt5U?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=p6Fixpmpt5U",
+              "url": "https://www.youtube.com/embed/WyyN-9GNIf0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=WyyN-9GNIf0",
               "width": 1280,
               "height": 720
             },
